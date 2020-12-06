@@ -1,0 +1,22 @@
+2020-11-28 14:29:47,056 [Thread-2] INFO  jordanwebsites.nrepl - nREPL server stopped 
+2020-11-28 14:29:47,061 [Thread-2] INFO  io.undertow - stopping server: Undertow - 2.1.3.Final 
+2020-11-28 14:29:47,075 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2020-11-28 14:29:47,075 [Thread-2] INFO  jordanwebsites.env - 
+-=[jordanwebsites has shut down successfully]=- 
+2020-11-28 14:29:47,076 [Thread-2] INFO  jordanwebsites.core - #'jordanwebsites.core/repl-server stopped 
+2020-11-28 14:29:47,076 [Thread-2] INFO  jordanwebsites.core - #'jordanwebsites.core/http-server stopped 
+2020-11-28 14:29:47,076 [Thread-2] INFO  jordanwebsites.core - #'jordanwebsites.handler/init-app stopped 
+2020-11-28 14:47:39,960 [main] INFO  jordanwebsites.env - 
+-=[jordanwebsites started successfully using the development profile]=- 
+2020-11-28 14:47:40,356 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider 
+2020-11-28 14:47:40,359 [main] INFO  io.undertow - starting server: Undertow - 2.1.3.Final 
+2020-11-28 14:47:40,389 [main] INFO  org.xnio - XNIO version 3.8.0.Final 
+2020-11-28 14:47:40,530 [main] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final 
+2020-11-28 14:47:40,545 [main] DEBUG io.undertow - Configuring listener with protocol HTTP for interface 0.0.0.0 and port 3000 
+2020-11-28 14:47:40,631 [main] INFO  luminus.http-server - server started on port 3000 
+2020-11-28 14:47:40,631 [main] INFO  jordanwebsites.nrepl - starting nREPL server on port 7000 
+2020-11-28 14:47:40,640 [main] INFO  jordanwebsites.core - #'jordanwebsites.config/env started 
+2020-11-28 14:47:40,645 [main] INFO  jordanwebsites.core - #'jordanwebsites.handler/init-app started 
+2020-11-28 14:47:40,646 [main] INFO  jordanwebsites.core - #'jordanwebsites.handler/app-routes started 
+2020-11-28 14:47:40,646 [main] INFO  jordanwebsites.core - #'jordanwebsites.core/http-server started 
+2020-11-28 14:47:40,646 [main] INFO  jordanwebsites.core - #'jordanwebsites.core/repl-server started 

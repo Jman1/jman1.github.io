@@ -1,0 +1,8 @@
+2020-11-30 19:04:56,806 [Thread-2] INFO  jordanwebsites.nrepl - nREPL server stopped 
+2020-11-30 19:04:56,823 [Thread-2] INFO  io.undertow - stopping server: Undertow - 2.1.3.Final 
+2020-11-30 19:04:56,843 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2020-11-30 19:04:56,843 [Thread-2] INFO  jordanwebsites.env - 
+-=[jordanwebsites has shut down successfully]=- 
+2020-11-30 19:04:56,844 [Thread-2] INFO  jordanwebsites.core - #'jordanwebsites.core/repl-server stopped 
+2020-11-30 19:04:56,844 [Thread-2] INFO  jordanwebsites.core - #'jordanwebsites.core/http-server stopped 
+2020-11-30 19:04:56,844 [Thread-2] INFO  jordanwebsites.core - #'jordanwebsites.handler/init-app stopped 

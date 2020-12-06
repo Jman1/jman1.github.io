@@ -1,1 +1,0 @@
-{:browser-repl true, :output-dir "demo-clojurescript-gh-pages/out", :main src.static-website, :output-to "demo-clojurescript-gh-pages/out/main.js", :aot-cache true}
